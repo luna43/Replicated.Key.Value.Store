@@ -1,0 +1,220 @@
+lunas-MacBook-Pro:proj3 luna$ ls
+client.jar	coordinator.jar
+lunas-MacBook-Pro:proj3 luna$ java -jar coordinator.jar 13000 13001 13002 13003 13004
+(29/03/2020 16:25:13) Server 0 is ready on port 13000
+(29/03/2020 16:25:13) Server 1 is ready on port 13001
+(29/03/2020 16:25:13) Server 2 is ready on port 13002
+(29/03/2020 16:25:13) Server 3 is ready on port 13003
+(29/03/2020 16:25:13) Server 4 is ready on port 13004
+(29/03/2020 16:25:13) All servers ready! Thread Count: 6
+(29/03/2020 16:26:07) Server 0 is prepared on port 13000
+(29/03/2020 16:26:07) Server 1 is prepared on port 13001
+(29/03/2020 16:26:07) Server 2 is prepared on port 13002
+(29/03/2020 16:26:07) Server 3 is prepared on port 13003
+(29/03/2020 16:26:07) Server 4 is prepared on port 13004
+(29/03/2020 16:26:12) PUT Command: Added new key to dict: key1
+(29/03/2020 16:26:12) PUT Command: Active thread count: 4
+(29/03/2020 16:26:12) Put key1 into server on port 13000
+(29/03/2020 16:26:12) PUT Command: Added new key to dict: key1
+(29/03/2020 16:26:12) PUT Command: Active thread count: 5
+(29/03/2020 16:26:12) Put key1 into server on port 13001
+(29/03/2020 16:26:12) PUT Command: Added new key to dict: key1
+(29/03/2020 16:26:12) PUT Command: Active thread count: 6
+(29/03/2020 16:26:12) Put key1 into server on port 13002
+(29/03/2020 16:26:12) PUT Command: Added new key to dict: key1
+(29/03/2020 16:26:12) PUT Command: Active thread count: 7
+(29/03/2020 16:26:12) Put key1 into server on port 13003
+(29/03/2020 16:26:12) PUT Command: Added new key to dict: key1
+(29/03/2020 16:26:12) PUT Command: Active thread count: 8
+(29/03/2020 16:26:12) Put key1 into server on port 13004
+(29/03/2020 16:26:49) Server 0 is prepared on port 13000
+(29/03/2020 16:26:49) Server 1 is prepared on port 13001
+(29/03/2020 16:26:49) Server 2 is prepared on port 13002
+(29/03/2020 16:26:49) Server 3 is prepared on port 13003
+(29/03/2020 16:26:49) Server 4 is prepared on port 13004
+(29/03/2020 16:26:54) PUT Command: Added new key to dict: key2
+(29/03/2020 16:26:54) PUT Command: Active thread count: 8
+(29/03/2020 16:26:54) Put key2 into server on port 13000
+(29/03/2020 16:26:54) PUT Command: Added new key to dict: key2
+(29/03/2020 16:26:54) PUT Command: Active thread count: 8
+(29/03/2020 16:26:54) Put key2 into server on port 13001
+(29/03/2020 16:26:54) PUT Command: Added new key to dict: key2
+(29/03/2020 16:26:54) PUT Command: Active thread count: 8
+(29/03/2020 16:26:54) Put key2 into server on port 13002
+(29/03/2020 16:26:54) PUT Command: Added new key to dict: key2
+(29/03/2020 16:26:54) PUT Command: Active thread count: 8
+(29/03/2020 16:26:54) Put key2 into server on port 13003
+(29/03/2020 16:26:54) PUT Command: Added new key to dict: key2
+(29/03/2020 16:26:54) PUT Command: Active thread count: 8
+(29/03/2020 16:26:54) Put key2 into server on port 13004
+(29/03/2020 16:27:27) Server 0 is prepared on port 13000
+(29/03/2020 16:27:27) Server 1 is prepared on port 13001
+(29/03/2020 16:27:27) Server 2 is prepared on port 13002
+(29/03/2020 16:27:27) Server 3 is prepared on port 13003
+(29/03/2020 16:27:27) Server 4 is prepared on port 13004
+(29/03/2020 16:27:32) PUT Command: Added new key to dict: key3
+(29/03/2020 16:27:32) PUT Command: Active thread count: 8
+(29/03/2020 16:27:32) Put key3 into server on port 13000
+(29/03/2020 16:27:32) PUT Command: Added new key to dict: key3
+(29/03/2020 16:27:32) PUT Command: Active thread count: 8
+(29/03/2020 16:27:32) Put key3 into server on port 13001
+(29/03/2020 16:27:32) PUT Command: Added new key to dict: key3
+(29/03/2020 16:27:32) PUT Command: Active thread count: 8
+(29/03/2020 16:27:32) Put key3 into server on port 13002
+(29/03/2020 16:27:32) PUT Command: Added new key to dict: key3
+(29/03/2020 16:27:32) PUT Command: Active thread count: 8
+(29/03/2020 16:27:32) Put key3 into server on port 13003
+(29/03/2020 16:27:32) PUT Command: Added new key to dict: key3
+(29/03/2020 16:27:32) PUT Command: Active thread count: 8
+(29/03/2020 16:27:32) Put key3 into server on port 13004
+(29/03/2020 16:27:55) Server 0 is prepared on port 13000
+(29/03/2020 16:27:55) Server 1 is prepared on port 13001
+(29/03/2020 16:27:55) Server 2 is prepared on port 13002
+(29/03/2020 16:27:55) Server 3 is prepared on port 13003
+(29/03/2020 16:27:55) Server 4 is prepared on port 13004
+(29/03/2020 16:28:00) PUT Command: Added new key to dict: key4
+(29/03/2020 16:28:00) PUT Command: Active thread count: 8
+(29/03/2020 16:28:00) Put key4 into server on port 13000
+(29/03/2020 16:28:00) PUT Command: Added new key to dict: key4
+(29/03/2020 16:28:00) PUT Command: Active thread count: 8
+(29/03/2020 16:28:00) Put key4 into server on port 13001
+(29/03/2020 16:28:00) PUT Command: Added new key to dict: key4
+(29/03/2020 16:28:00) PUT Command: Active thread count: 8
+(29/03/2020 16:28:00) Put key4 into server on port 13002
+(29/03/2020 16:28:00) PUT Command: Added new key to dict: key4
+(29/03/2020 16:28:00) PUT Command: Active thread count: 8
+(29/03/2020 16:28:00) Put key4 into server on port 13003
+(29/03/2020 16:28:00) PUT Command: Added new key to dict: key4
+(29/03/2020 16:28:00) PUT Command: Active thread count: 8
+(29/03/2020 16:28:00) Put key4 into server on port 13004
+(29/03/2020 16:28:22) Server 0 is prepared on port 13000
+(29/03/2020 16:28:22) Server 1 is prepared on port 13001
+(29/03/2020 16:28:22) Server 2 is prepared on port 13002
+(29/03/2020 16:28:22) Server 3 is prepared on port 13003
+(29/03/2020 16:28:22) Server 4 is prepared on port 13004
+(29/03/2020 16:28:27) PUT Command: Added new key to dict: key5
+(29/03/2020 16:28:27) PUT Command: Active thread count: 8
+(29/03/2020 16:28:27) Put key5 into server on port 13000
+(29/03/2020 16:28:27) PUT Command: Added new key to dict: key5
+(29/03/2020 16:28:27) PUT Command: Active thread count: 8
+(29/03/2020 16:28:27) Put key5 into server on port 13001
+(29/03/2020 16:28:27) PUT Command: Added new key to dict: key5
+(29/03/2020 16:28:27) PUT Command: Active thread count: 8
+(29/03/2020 16:28:27) Put key5 into server on port 13002
+(29/03/2020 16:28:27) PUT Command: Added new key to dict: key5
+(29/03/2020 16:28:27) PUT Command: Active thread count: 8
+(29/03/2020 16:28:27) Put key5 into server on port 13003
+(29/03/2020 16:28:27) PUT Command: Added new key to dict: key5
+(29/03/2020 16:28:27) PUT Command: Active thread count: 8
+(29/03/2020 16:28:27) Put key5 into server on port 13004
+(29/03/2020 16:29:05) GET Command: Key: key1 Value: value1
+(29/03/2020 16:29:05) GET Command: Active thread count: 8
+(29/03/2020 16:29:38) GET Command: Key: key2 Value: value2
+(29/03/2020 16:29:38) GET Command: Active thread count: 6
+(29/03/2020 16:29:50) GET Command: Key: key3 Value: value3
+(29/03/2020 16:29:50) GET Command: Active thread count: 2
+(29/03/2020 16:30:04) GET Command: Key: key4 Value: value4
+(29/03/2020 16:30:04) GET Command: Active thread count: 2
+(29/03/2020 16:30:26) GET Command: Key: key5 Value: value5
+(29/03/2020 16:30:26) GET Command: Active thread count: 2
+(29/03/2020 16:31:06) Server 0 is prepared on port 13000
+(29/03/2020 16:31:06) Server 1 is prepared on port 13001
+(29/03/2020 16:31:06) Server 2 is prepared on port 13002
+(29/03/2020 16:31:06) Server 3 is prepared on port 13003
+(29/03/2020 16:31:06) Server 4 is prepared on port 13004
+(29/03/2020 16:31:11) DELETE Command: Deleted Key: key1 Value: value1
+(29/03/2020 16:31:11) DELETE Command: Active thread count: 4
+(29/03/2020 16:31:11) Deleted key1 from server on port 13000
+(29/03/2020 16:31:11) DELETE Command: Deleted Key: key1 Value: value1
+(29/03/2020 16:31:11) DELETE Command: Active thread count: 5
+(29/03/2020 16:31:11) Deleted key1 from server on port 13001
+(29/03/2020 16:31:11) DELETE Command: Deleted Key: key1 Value: value1
+(29/03/2020 16:31:11) DELETE Command: Active thread count: 6
+(29/03/2020 16:31:11) Deleted key1 from server on port 13002
+(29/03/2020 16:31:11) DELETE Command: Deleted Key: key1 Value: value1
+(29/03/2020 16:31:11) DELETE Command: Active thread count: 7
+(29/03/2020 16:31:11) Deleted key1 from server on port 13003
+(29/03/2020 16:31:11) DELETE Command: Deleted Key: key1 Value: value1
+(29/03/2020 16:31:11) DELETE Command: Active thread count: 8
+(29/03/2020 16:31:11) Deleted key1 from server on port 13004
+(29/03/2020 16:31:28) Server 0 is prepared on port 13000
+(29/03/2020 16:31:28) Server 1 is prepared on port 13001
+(29/03/2020 16:31:28) Server 2 is prepared on port 13002
+(29/03/2020 16:31:28) Server 3 is prepared on port 13003
+(29/03/2020 16:31:28) Server 4 is prepared on port 13004
+(29/03/2020 16:31:33) DELETE Command: Deleted Key: key2 Value: value2
+(29/03/2020 16:31:33) DELETE Command: Active thread count: 8
+(29/03/2020 16:31:33) Deleted key2 from server on port 13000
+(29/03/2020 16:31:33) DELETE Command: Deleted Key: key2 Value: value2
+(29/03/2020 16:31:33) DELETE Command: Active thread count: 8
+(29/03/2020 16:31:33) Deleted key2 from server on port 13001
+(29/03/2020 16:31:33) DELETE Command: Deleted Key: key2 Value: value2
+(29/03/2020 16:31:33) DELETE Command: Active thread count: 8
+(29/03/2020 16:31:33) Deleted key2 from server on port 13002
+(29/03/2020 16:31:33) DELETE Command: Deleted Key: key2 Value: value2
+(29/03/2020 16:31:33) DELETE Command: Active thread count: 8
+(29/03/2020 16:31:33) Deleted key2 from server on port 13003
+(29/03/2020 16:31:33) DELETE Command: Deleted Key: key2 Value: value2
+(29/03/2020 16:31:33) DELETE Command: Active thread count: 8
+(29/03/2020 16:31:33) Deleted key2 from server on port 13004
+(29/03/2020 16:31:45) Server 0 is prepared on port 13000
+(29/03/2020 16:31:45) Server 1 is prepared on port 13001
+(29/03/2020 16:31:45) Server 2 is prepared on port 13002
+(29/03/2020 16:31:45) Server 3 is prepared on port 13003
+(29/03/2020 16:31:45) Server 4 is prepared on port 13004
+(29/03/2020 16:31:50) DELETE Command: Deleted Key: key3 Value: value3
+(29/03/2020 16:31:50) DELETE Command: Active thread count: 8
+(29/03/2020 16:31:50) Deleted key3 from server on port 13000
+(29/03/2020 16:31:50) DELETE Command: Deleted Key: key3 Value: value3
+(29/03/2020 16:31:50) DELETE Command: Active thread count: 8
+(29/03/2020 16:31:50) Deleted key3 from server on port 13001
+(29/03/2020 16:31:50) DELETE Command: Deleted Key: key3 Value: value3
+(29/03/2020 16:31:50) DELETE Command: Active thread count: 8
+(29/03/2020 16:31:50) Deleted key3 from server on port 13002
+(29/03/2020 16:31:50) DELETE Command: Deleted Key: key3 Value: value3
+(29/03/2020 16:31:50) DELETE Command: Active thread count: 8
+(29/03/2020 16:31:50) Deleted key3 from server on port 13003
+(29/03/2020 16:31:50) DELETE Command: Deleted Key: key3 Value: value3
+(29/03/2020 16:31:50) DELETE Command: Active thread count: 8
+(29/03/2020 16:31:50) Deleted key3 from server on port 13004
+(29/03/2020 16:32:03) Server 0 is prepared on port 13000
+(29/03/2020 16:32:03) Server 1 is prepared on port 13001
+(29/03/2020 16:32:03) Server 2 is prepared on port 13002
+(29/03/2020 16:32:03) Server 3 is prepared on port 13003
+(29/03/2020 16:32:03) Server 4 is prepared on port 13004
+(29/03/2020 16:32:08) DELETE Command: Deleted Key: key4 Value: value4
+(29/03/2020 16:32:08) DELETE Command: Active thread count: 8
+(29/03/2020 16:32:08) Deleted key4 from server on port 13000
+(29/03/2020 16:32:08) DELETE Command: Deleted Key: key4 Value: value4
+(29/03/2020 16:32:08) DELETE Command: Active thread count: 8
+(29/03/2020 16:32:08) Deleted key4 from server on port 13001
+(29/03/2020 16:32:08) DELETE Command: Deleted Key: key4 Value: value4
+(29/03/2020 16:32:08) DELETE Command: Active thread count: 8
+(29/03/2020 16:32:08) Deleted key4 from server on port 13002
+(29/03/2020 16:32:08) DELETE Command: Deleted Key: key4 Value: value4
+(29/03/2020 16:32:08) DELETE Command: Active thread count: 8
+(29/03/2020 16:32:08) Deleted key4 from server on port 13003
+(29/03/2020 16:32:09) DELETE Command: Deleted Key: key4 Value: value4
+(29/03/2020 16:32:09) DELETE Command: Active thread count: 8
+(29/03/2020 16:32:09) Deleted key4 from server on port 13004
+(29/03/2020 16:32:28) Server 0 is prepared on port 13000
+(29/03/2020 16:32:28) Server 1 is prepared on port 13001
+(29/03/2020 16:32:28) Server 2 is prepared on port 13002
+(29/03/2020 16:32:28) Server 3 is prepared on port 13003
+(29/03/2020 16:32:28) Server 4 is prepared on port 13004
+(29/03/2020 16:32:33) DELETE Command: Deleted Key: key5 Value: value5
+(29/03/2020 16:32:33) DELETE Command: Active thread count: 8
+(29/03/2020 16:32:33) Deleted key5 from server on port 13000
+(29/03/2020 16:32:33) DELETE Command: Deleted Key: key5 Value: value5
+(29/03/2020 16:32:33) DELETE Command: Active thread count: 8
+(29/03/2020 16:32:33) Deleted key5 from server on port 13001
+(29/03/2020 16:32:33) DELETE Command: Deleted Key: key5 Value: value5
+(29/03/2020 16:32:33) DELETE Command: Active thread count: 8
+(29/03/2020 16:32:33) Deleted key5 from server on port 13002
+(29/03/2020 16:32:33) DELETE Command: Deleted Key: key5 Value: value5
+(29/03/2020 16:32:33) DELETE Command: Active thread count: 8
+(29/03/2020 16:32:33) Deleted key5 from server on port 13003
+(29/03/2020 16:32:33) DELETE Command: Deleted Key: key5 Value: value5
+(29/03/2020 16:32:33) DELETE Command: Active thread count: 8
+(29/03/2020 16:32:33) Deleted key5 from server on port 13004
+

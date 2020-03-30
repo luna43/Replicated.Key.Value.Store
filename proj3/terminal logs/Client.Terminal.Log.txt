@@ -1,0 +1,20 @@
+lunas-MacBook-Pro:proj3 luna$ ls
+client.jar	coordinator.jar
+lunas-MacBook-Pro:proj3 luna$ java -jar client.jar 13000 0 key1 value1
+lunas-MacBook-Pro:proj3 luna$ java -jar client.jar 13000 0 key2 value2
+lunas-MacBook-Pro:proj3 luna$ java -jar client.jar 13000 0 key3 value3
+lunas-MacBook-Pro:proj3 luna$ java -jar client.jar 13000 0 key4 value4
+lunas-MacBook-Pro:proj3 luna$ java -jar client.jar 13000 0 key5 value5
+
+lunas-MacBook-Pro:proj3 luna$ java -jar client.jar 13001 1 key1
+lunas-MacBook-Pro:proj3 luna$ java -jar client.jar 13001 1 key2
+lunas-MacBook-Pro:proj3 luna$ java -jar client.jar 13001 1 key3
+lunas-MacBook-Pro:proj3 luna$ java -jar client.jar 13001 1 key4
+lunas-MacBook-Pro:proj3 luna$ java -jar client.jar 13001 1 key5
+
+lunas-MacBook-Pro:proj3 luna$ java -jar client.jar 13003 2 key1
+lunas-MacBook-Pro:proj3 luna$ java -jar client.jar 13003 2 key2
+lunas-MacBook-Pro:proj3 luna$ java -jar client.jar 13003 2 key3
+lunas-MacBook-Pro:proj3 luna$ java -jar client.jar 13003 2 key4
+lunas-MacBook-Pro:proj3 luna$ java -jar client.jar 13003 2 key5
+
